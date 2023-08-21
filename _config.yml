@@ -1,5 +1,5 @@
-url: https://apibank.skolacode.com/
-baseurl: /apibank.skolacode.com/
+url: https://apibank.skolacode.com
+# baseurl: /apibank.skolacode.com/
 
 # Site settings
 title: Api Bank
